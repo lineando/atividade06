@@ -1,2 +1,1 @@
-# atividade06
-Aline Moreira Araújo
+# Aline Moreira Araújo
